@@ -29,7 +29,7 @@ In this section, I modified the LeNet lab code to print out the summary of the d
 
 I used Matplotlib library to print out random 15 images. To make the data more readable, I also added the sign name to the image based on the csv file. Here's what they look like.
 
-![alt text][./images/random_15.png]
+![alt text](./images/random_15.png)
 
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
 
